@@ -19,9 +19,9 @@ body{
     align-items: center;
 }
 .sec-1 .github h1{
+    color: #d84100;
     font-size: 4vw;
     color: 6528F7;
-    text-shadow: 1px 2px #191717;
     font-weight: bolder;
 }
 .sec-1 .github img{
